@@ -1,0 +1,15 @@
+com/mycompany/backendmovil2/Backendmovil2$WebSecurityConfig.class
+com/mycompany/backendmovil2/model/Person.class
+com/mycompany/backendmovil2/dao/MailDao.class
+com/mycompany/backendmovil2/dto/Inputs.class
+com/mycompany/backendmovil2/enums/Sexo.class
+com/mycompany/backendmovil2/model/Phone.class
+com/mycompany/backendmovil2/model/Direccion.class
+com/mycompany/backendmovil2/dao/PhoneDao.class
+com/mycompany/backendmovil2/dao/DirectionDao.class
+com/mycompany/backendmovil2/model/Mail.class
+com/mycompany/backendmovil2/Backendmovil2.class
+com/mycompany/backendmovil2/dao/PersonDao.class
+com/mycompany/backendmovil2/service/PersonService.class
+com/mycompany/backendmovil2/ws/PersonWS.class
+com/mycompany/backendmovil2/enums/EstadoCivil.class

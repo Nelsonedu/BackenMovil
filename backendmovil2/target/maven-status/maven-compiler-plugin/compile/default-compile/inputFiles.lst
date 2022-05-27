@@ -1,0 +1,14 @@
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/dao/PersonDao.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/enums/EstadoCivil.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/dao/DirectionDao.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/Backendmovil2.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/service/PersonService.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/dao/PhoneDao.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/model/Direccion.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/model/Mail.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/dto/Inputs.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/model/Person.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/ws/PersonWS.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/dao/MailDao.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/model/Phone.java
+/Users/macbookpro/NetBeansProjects/backendmovil2/src/main/java/com/mycompany/backendmovil2/enums/Sexo.java
